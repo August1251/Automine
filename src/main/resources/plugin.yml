@@ -1,0 +1,4 @@
+name: Automine
+version: '${version}'
+main: org.novikov.automine.Automine
+api-version: '1.19'
